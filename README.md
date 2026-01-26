@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thanianarker/thanianarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thania Narker
 
-Here are some ideas to get you started:
+AWS re/Start participant  
+Cloud computing • AWS • Linux • Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🌱 Currently learning
+- AWS core services (EC2, S3, IAM)
+- Linux fundamentals & basic scripting
+- Networking concepts
+- Cloud troubleshooting
+
+---
+
+### 📁 About this space
+This GitHub is a living portfolio documenting my learning journey through the AWS re/Start program, including labs, notes, and hands-on practice.
+
+---
+
+<sub>Quietly curious • Consistent learning • Building foundations</sub>
