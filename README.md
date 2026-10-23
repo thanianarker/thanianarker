@@ -2,14 +2,14 @@
 
 # Thania Narker
 
-AWS re/Start participant  
+AWS re/Start graduate  
 Cloud computing • AWS • Linux • Networking
 
 </div>
 
 ---
 
-### 🌱 Currently learning
+### 🌱 Learnt
 - AWS core services (EC2, S3, IAM)
 - Linux fundamentals & basic scripting
 - Networking concepts
